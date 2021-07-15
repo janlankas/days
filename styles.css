@@ -84,12 +84,12 @@ body {
 
 .hero-desc h2 {
   font-family: "Abril Fatface";
-  font-size: 5rem;
+  font-size: 4rem;
 }
 
 .hero-desc p {
   padding: 3rem 0rem;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   color: rgb(223, 223, 223);
 }
 
