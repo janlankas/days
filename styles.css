@@ -2,12 +2,12 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  overflow-x: hidden;
 }
 
 body {
   background: #17181a;
   font-family: "Montserrat", sans-serif;
+  overflow-x: hidden;
 }
 
 #logo {
